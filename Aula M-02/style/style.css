@@ -1,0 +1,15 @@
+h1.titulo {
+    color: red;
+    margin-bottom: 10px;
+    border: 2px solid yellow;
+
+}
+h1#rua {
+    color: blue;
+}
+#sub {
+    color: orange;
+}
+.Tamanho {
+    color: green;
+}
